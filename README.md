@@ -5,7 +5,6 @@ I used JS + Playwright
 1. Clone a repository
 2. Use command:
 ```
-npm init -y
 npm install @playwright/test
 npx playwright install
 ```
